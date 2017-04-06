@@ -1,0 +1,4 @@
+C:\Users\RVasu\Downloads\dotnetproject\DotNetProject\Tourism.BusinessLogic\bin\Debug\Tourism.BusinessLogic.dll
+C:\Users\RVasu\Downloads\dotnetproject\DotNetProject\Tourism.BusinessLogic\bin\Debug\Tourism.BusinessLogic.pdb
+C:\Users\RVasu\Downloads\dotnetproject\DotNetProject\Tourism.BusinessLogic\obj\Debug\Tourism.BusinessLogic.dll
+C:\Users\RVasu\Downloads\dotnetproject\DotNetProject\Tourism.BusinessLogic\obj\Debug\Tourism.BusinessLogic.pdb

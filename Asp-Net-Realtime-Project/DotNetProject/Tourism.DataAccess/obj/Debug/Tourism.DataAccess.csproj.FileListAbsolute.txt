@@ -1,0 +1,14 @@
+C:\Users\RVasu\Downloads\dotnetproject\DotNetProject\Tourism.DataAccess\bin\Debug\Tourism.DataAccess.dll
+C:\Users\RVasu\Downloads\dotnetproject\DotNetProject\Tourism.DataAccess\bin\Debug\Tourism.DataAccess.pdb
+C:\Users\RVasu\Downloads\dotnetproject\DotNetProject\Tourism.DataAccess\bin\Debug\Tourism.BusinessInfo.dll
+C:\Users\RVasu\Downloads\dotnetproject\DotNetProject\Tourism.DataAccess\bin\Debug\Tourism.BusinessInfo.pdb
+C:\Users\RVasu\Downloads\dotnetproject\DotNetProject\Tourism.DataAccess\obj\Debug\Tourism.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\RVasu\Downloads\dotnetproject\DotNetProject\Tourism.DataAccess\obj\Debug\Tourism.DataAccess.dll
+C:\Users\RVasu\Downloads\dotnetproject\DotNetProject\Tourism.DataAccess\obj\Debug\Tourism.DataAccess.pdb
+C:\Users\apprendaadmin\Desktop\Asp-Net-Realtime-Project\Asp-Net-Realtime-Project\DotNetProject\Tourism.DataAccess\bin\Debug\Tourism.DataAccess.dll
+C:\Users\apprendaadmin\Desktop\Asp-Net-Realtime-Project\Asp-Net-Realtime-Project\DotNetProject\Tourism.DataAccess\bin\Debug\Tourism.DataAccess.pdb
+C:\Users\apprendaadmin\Desktop\Asp-Net-Realtime-Project\Asp-Net-Realtime-Project\DotNetProject\Tourism.DataAccess\bin\Debug\Tourism.BusinessInfo.dll
+C:\Users\apprendaadmin\Desktop\Asp-Net-Realtime-Project\Asp-Net-Realtime-Project\DotNetProject\Tourism.DataAccess\bin\Debug\Tourism.BusinessInfo.pdb
+C:\Users\apprendaadmin\Desktop\Asp-Net-Realtime-Project\Asp-Net-Realtime-Project\DotNetProject\Tourism.DataAccess\obj\Debug\Tourism.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\apprendaadmin\Desktop\Asp-Net-Realtime-Project\Asp-Net-Realtime-Project\DotNetProject\Tourism.DataAccess\obj\Debug\Tourism.DataAccess.dll
+C:\Users\apprendaadmin\Desktop\Asp-Net-Realtime-Project\Asp-Net-Realtime-Project\DotNetProject\Tourism.DataAccess\obj\Debug\Tourism.DataAccess.pdb
